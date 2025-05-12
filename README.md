@@ -15,7 +15,7 @@ Here are the steps to get started with this template:
 If you prefer a video:
 <br>
 <a href="https://www.youtube.com/watch?v=dDlN4AbHMSI">
-  <img src="https://img.youtube.com/vi/dDlN4AbHMSI/sddefault.jpg" alt="Jules Backlog Demo" width="600">
+  <img src="https://img.youtube.com/vi/dDlN4AbHMSI/sddefault.jpg" alt="Jules Backlog Demo" width="600"></img>
 </a>
 
 ## Environment Set Up Scripts
