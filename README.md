@@ -14,7 +14,9 @@ Here are the steps to get started with this template:
 
 If you prefer a video:
 <br>
-[![Jules Backlog Demo](https://img.youtube.com/vi/dDlN4AbHMSI/maxresdefault.jpg)](https://www.youtube.com/watch?v=dDlN4AbHMSI)
+<a href="https://www.youtube.com/watch?v=dDlN4AbHMSI">
+  <img src="https://img.youtube.com/vi/dDlN4AbHMSI/sddefault.jpg" alt="Jules Backlog Demo" width="600">
+</a>
 
 ## Environment Set Up Scripts
 To set up the correct dev environment, you can use this bash script in Jules:
